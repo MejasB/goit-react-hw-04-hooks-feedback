@@ -3,7 +3,7 @@ import { useState } from 'react';
 import Section from '../Section';
 import FeedbackOptions from '../FeedbackOptions';
 import Statistics from '../Statistics';
-import Notification from '../Notification/';
+import Notification from '../Notification';
 
 import { AppWrap } from './App.styled';
 
